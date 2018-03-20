@@ -27,7 +27,7 @@
     將訓練資料中的各組合出現的字數做統計。
     如：Ａ = T 的數量，即統計Ｔ------
 
-### proj2_final.py:
+#### proj2_final.py:
     實做 Batesian networks 並有介面顯示
 
     
